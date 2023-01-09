@@ -1,0 +1,9 @@
+# 絶対いらん
+.DS_Store
+
+# 作業(build)用ディレクトリ
+build
+
+memo.txt
+sdkconfig
+sdkconfig.old
